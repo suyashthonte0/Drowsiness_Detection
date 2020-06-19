@@ -6,7 +6,7 @@ The objective of this intermediate Python project is to build a drowsiness detec
 
 Our Project will proceed in these steps : 
 
-Step 1 – Take image as input from a camera.
+Step 1 – Take image as input from a camera.\n
 Step 2 – Detect the face in the image and create a Region of Interest (ROI).
 Step 3 – Detect the eyes from ROI and feed it to the classifier.
 Step 4 – Classifier will categorize whether eyes are open or closed.
