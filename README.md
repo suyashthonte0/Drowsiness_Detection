@@ -5,6 +5,7 @@ The majority of accidents happen due to the drowsiness of the driver. So, to pre
 The objective of this intermediate Python project is to build a drowsiness detection system that will detect that a person’s eyes are closed for a few seconds. This system will alert the driver when drowsiness is detected.
 
 Our Project will proceed in these steps : 
+
 Step 1 – Take image as input from a camera.
 Step 2 – Detect the face in the image and create a Region of Interest (ROI).
 Step 3 – Detect the eyes from ROI and feed it to the classifier.
